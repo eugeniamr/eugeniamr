@@ -1,6 +1,5 @@
-I'm Eugenia!
- 
-[<img src='eugeniareadmelogo.png' alt='logo' height='40'>]
+ Hi there 👋 I'm Eugenia!
+
 
 I am a Front-End developer trainee based in Buenos Aires, Argentina. I'm currently learning Node.js.
 
