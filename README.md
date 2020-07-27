@@ -1,7 +1,7 @@
- Hi there 👋 I'm Eugenia!
+<b> Hi there 👋 I'm Eugenia! <b>
 
 
-I am a Front-End developer trainee based in Buenos Aires, Argentina. I'm currently learning Node.js.
+I am a Front-End developer trainee based in Buenos Aires, Argentina. 
 
 Skills: HTML / CSS / JS
 
