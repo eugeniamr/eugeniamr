@@ -1,6 +1,6 @@
 <b> Hi there 👋 I'm Eugenia! <b>
 
-<img src="eugeniareadme.png" width="250" height="250px">
+![](eugeniareadme.png)
 
 
 I am a Front-End developer trainee based in Buenos Aires, Argentina. 
