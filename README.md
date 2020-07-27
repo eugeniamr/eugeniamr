@@ -1,7 +1,6 @@
 <b> Hi there 👋 I'm Eugenia! <b>
 
-![](eugeniareadme.png)
-
+![eugeniareadme](https://user-images.githubusercontent.com/68877151/88602552-65f58280-d049-11ea-8d2e-aedca864336f.png)
 
 I am a Front-End developer trainee based in Buenos Aires, Argentina. 
 
