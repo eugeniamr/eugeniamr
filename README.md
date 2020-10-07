@@ -7,7 +7,7 @@ I am a Front-End developer trainee based in Buenos Aires, Argentina.
 Skills: HTML / CSS / JS
 
 - 🔭 I’m currently working on my portfolio. 
-- 🌱 I’m currently learning Node.js. 
+- 🌱 I’m currently learning React.js. 
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: tea over coffee. spring. languages. IU. 
 
