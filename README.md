@@ -2,12 +2,12 @@
   
 ![resizeeugeniareadme](https://user-images.githubusercontent.com/68877151/88602996-50cd2380-d04a-11ea-9d33-e17424bb4cf7.png)
 
-I am a Front-End developer trainee based in Buenos Aires, Argentina. 
+I am a Front-End developer trainee  and a QA Tester student based in Buenos Aires, Argentina. 
 
 Skills: HTML / CSS / JS
 
 - 🔭 I’m currently working on my portfolio. 
-- 🌱 I’m currently learning Vue.js. 
+- 🌱 I’m currently learning Automation. 
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: tea over coffee. spring. languages. IU. 
 
